@@ -4,17 +4,17 @@ description: > # this means to ignore newlines until "baseurl:"
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-site-twitter: #if your site has a twitter account, enter it here
+site-twitter: bloxtopofficial #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Aaron # add your name
+author: BloxTop # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: Pubilc place for publishing news, events and opinions about blockchain projects. # add description
-social-twitter: # add your Twitter handle
+social-twitter: bloxtopofficial # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: bloxtop # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: Aaron_he01@yahoo.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
