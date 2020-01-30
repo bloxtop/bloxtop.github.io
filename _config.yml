@@ -25,7 +25,7 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Tickers
-tickers: bitcoin,ethereum,eos,ripple,litecoin
+tickers: bitcoin,super-zero
 
 # Build Settings
 markdown: kramdown
