@@ -2,8 +2,8 @@
 layout: post
 title: SERO wait and long trade
 date: 2020-01-30 17:18:20 +0800
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: SERO-2020-01-30.png # Add image post (optional)
+description: You’ll find this post in your `_posts` directory.
+img: SERO.png
 fig-caption: # Add figcaption (optional)
 tags: [News, Market]
 ---

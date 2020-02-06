@@ -3,7 +3,7 @@ layout: post
 title: BTC long trade
 date: 2020-01-22 20:18:20 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: BTC-2020-1-28.png # Add image post (optional)
+img: bitcoin.png # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [News, Market]
 ---
