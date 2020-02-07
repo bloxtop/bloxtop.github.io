@@ -25,7 +25,7 @@ discus-identifier: mr-brown # add your discus identifier
 analytics: # Google Analytics
 
 # Tickers
-tickers: bitcoin,super-zero
+tickers: bitcoin,blockstack,basic-attention-token,iota,bittorrent-2
 
 # Build Settings
 markdown: kramdown
