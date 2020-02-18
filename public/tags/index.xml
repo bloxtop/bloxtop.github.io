@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on BloxTop</title>
-    <link>https://bloxtop.com/tags/</link>
+    <link>https://bloxtop.github.io/tags/</link>
     <description>Recent content in Tags on BloxTop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 12 Feb 2020 21:45:15 +0800</lastBuildDate>
     
-	<atom:link href="https://bloxtop.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bloxtop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thoughs</title>
-      <link>https://bloxtop.com/tags/thoughs/</link>
+      <link>https://bloxtop.github.io/tags/thoughs/</link>
       <pubDate>Wed, 12 Feb 2020 21:45:15 +0800</pubDate>
       
-      <guid>https://bloxtop.com/tags/thoughs/</guid>
+      <guid>https://bloxtop.github.io/tags/thoughs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>News</title>
-      <link>https://bloxtop.com/tags/news/</link>
+      <link>https://bloxtop.github.io/tags/news/</link>
       <pubDate>Sun, 09 Feb 2020 21:15:15 +0800</pubDate>
       
-      <guid>https://bloxtop.com/tags/news/</guid>
+      <guid>https://bloxtop.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Market</title>
-      <link>https://bloxtop.com/tags/market/</link>
+      <link>https://bloxtop.github.io/tags/market/</link>
       <pubDate>Fri, 07 Feb 2020 18:50:15 +0800</pubDate>
       
-      <guid>https://bloxtop.com/tags/market/</guid>
+      <guid>https://bloxtop.github.io/tags/market/</guid>
       <description></description>
     </item>
     

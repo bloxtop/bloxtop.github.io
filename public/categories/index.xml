@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on BloxTop</title>
-    <link>https://bloxtop.com/categories/</link>
+    <link>https://bloxtop.github.io/categories/</link>
     <description>Recent content in Categories on BloxTop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 12 Feb 2020 21:45:15 +0800</lastBuildDate>
     
-	<atom:link href="https://bloxtop.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://bloxtop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>思考</title>
-      <link>https://bloxtop.com/categories/%E6%80%9D%E8%80%83/</link>
+      <link>https://bloxtop.github.io/categories/%E6%80%9D%E8%80%83/</link>
       <pubDate>Wed, 12 Feb 2020 21:45:15 +0800</pubDate>
       
-      <guid>https://bloxtop.com/categories/%E6%80%9D%E8%80%83/</guid>
+      <guid>https://bloxtop.github.io/categories/%E6%80%9D%E8%80%83/</guid>
       <description></description>
     </item>
     
     <item>
       <title>交易</title>
-      <link>https://bloxtop.com/categories/%E4%BA%A4%E6%98%93/</link>
+      <link>https://bloxtop.github.io/categories/%E4%BA%A4%E6%98%93/</link>
       <pubDate>Sun, 09 Feb 2020 21:15:15 +0800</pubDate>
       
-      <guid>https://bloxtop.com/categories/%E4%BA%A4%E6%98%93/</guid>
+      <guid>https://bloxtop.github.io/categories/%E4%BA%A4%E6%98%93/</guid>
       <description></description>
     </item>
     
     <item>
       <title>新闻</title>
-      <link>https://bloxtop.com/categories/%E6%96%B0%E9%97%BB/</link>
+      <link>https://bloxtop.github.io/categories/%E6%96%B0%E9%97%BB/</link>
       <pubDate>Thu, 06 Feb 2020 10:15:15 +0800</pubDate>
       
-      <guid>https://bloxtop.com/categories/%E6%96%B0%E9%97%BB/</guid>
+      <guid>https://bloxtop.github.io/categories/%E6%96%B0%E9%97%BB/</guid>
       <description></description>
     </item>
     
