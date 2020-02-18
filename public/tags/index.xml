@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on BloxTop</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on BloxTop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Feb 2020 21:45:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thoughs</title>
+      <link>https://example.com/tags/thoughs/</link>
+      <pubDate>Wed, 12 Feb 2020 21:45:15 +0800</pubDate>
+      
+      <guid>https://example.com/tags/thoughs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://example.com/tags/news/</link>
+      <pubDate>Sun, 09 Feb 2020 21:15:15 +0800</pubDate>
+      
+      <guid>https://example.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Market</title>
+      <link>https://example.com/tags/market/</link>
+      <pubDate>Fri, 07 Feb 2020 18:50:15 +0800</pubDate>
+      
+      <guid>https://example.com/tags/market/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
