@@ -13,7 +13,12 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-02-12-lessons-learned/</loc>
+    <loc>https://bloxtop.github.io/portfolio/2020-02-12-lessons-learned/</loc>
+    <lastmod>2020-02-12T21:45:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloxtop.github.io/portfolio/</loc>
     <lastmod>2020-02-12T21:45:15+08:00</lastmod>
   </url>
   
@@ -28,17 +33,12 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/</loc>
-    <lastmod>2020-02-12T21:45:15+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bloxtop.github.io/categories/%E6%80%9D%E8%80%83/</loc>
     <lastmod>2020-02-12T21:45:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-02-09-btc-short-trade/</loc>
+    <loc>https://bloxtop.github.io/portfolio/2020-02-09-btc-short-trade/</loc>
     <lastmod>2020-02-09T21:15:15+08:00</lastmod>
   </url>
   
@@ -53,7 +53,7 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-02-07-altcoin-watchlist/</loc>
+    <loc>https://bloxtop.github.io/portfolio/2020-02-07-altcoin-watchlist/</loc>
     <lastmod>2020-02-07T18:50:15+08:00</lastmod>
   </url>
   
@@ -63,7 +63,7 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-02-06-btc-long-trade-2/</loc>
+    <loc>https://bloxtop.github.io/portfolio/2020-02-06-btc-long-trade-2/</loc>
     <lastmod>2020-02-06T10:15:15+08:00</lastmod>
   </url>
   
@@ -73,28 +73,23 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-01-30-sero-wait-and-long-trade/</loc>
+    <loc>https://bloxtop.github.io/portfolio/2020-01-30-sero-wait-and-long-trade/</loc>
     <lastmod>2020-01-30T17:18:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-01-28-btc-long-trade/</loc>
+    <loc>https://bloxtop.github.io/portfolio/2020-01-28-btc-long-trade/</loc>
     <lastmod>2020-01-28T23:58:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/about/desc/</loc>
-    <lastmod>2020-02-02T17:37:24+08:00</lastmod>
+    <loc>https://bloxtop.github.io/contact/</loc>
+    <lastmod>2017-11-06T13:00:25+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://bloxtop.github.io/about/</loc>
-    <lastmod>2020-02-02T17:37:24+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloxtop.github.io/about/desc2/</loc>
-    <lastmod>2019-11-11T01:30:24+08:00</lastmod>
+    <lastmod>2017-11-05T21:05:33+05:30</lastmod>
   </url>
   
 </urlset>

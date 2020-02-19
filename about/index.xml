@@ -1,33 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on BloxTop</title>
+    <title>About me on BloxTop</title>
     <link>https://bloxtop.github.io/about/</link>
-    <description>Recent content in Abouts on BloxTop</description>
+    <description>Recent content in About me on BloxTop</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 11 Nov 2019 01:30:25 +0800</lastBuildDate>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 Nov 2017 21:05:33 +0530</lastBuildDate>
     
 	<atom:link href="https://bloxtop.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>https://bloxtop.github.io/about/desc/</link>
-      <pubDate>Mon, 11 Nov 2019 01:30:25 +0800</pubDate>
-      
-      <guid>https://bloxtop.github.io/about/desc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Porfolio</title>
-      <link>https://bloxtop.github.io/about/desc2/</link>
-      <pubDate>Mon, 11 Nov 2019 01:30:24 +0800</pubDate>
-      
-      <guid>https://bloxtop.github.io/about/desc2/</guid>
-      <description></description>
-    </item>
     
   </channel>
 </rss>
