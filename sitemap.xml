@@ -18,12 +18,12 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/tags/</loc>
+    <loc>https://bloxtop.github.io/tags/others/</loc>
     <lastmod>2020-02-12T21:45:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/tags/thoughs/</loc>
+    <loc>https://bloxtop.github.io/tags/</loc>
     <lastmod>2020-02-12T21:45:15+08:00</lastmod>
   </url>
   
@@ -38,12 +38,12 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/posts/2020-02-09-btc-short-trade/</loc>
+    <loc>https://bloxtop.github.io/tags/btc/</loc>
     <lastmod>2020-02-09T21:15:15+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/tags/news/</loc>
+    <loc>https://bloxtop.github.io/posts/2020-02-09-btc-short-trade/</loc>
     <lastmod>2020-02-09T21:15:15+08:00</lastmod>
   </url>
   
@@ -58,11 +58,6 @@
   </url>
   
   <url>
-    <loc>https://bloxtop.github.io/tags/market/</loc>
-    <lastmod>2020-02-07T18:50:15+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://bloxtop.github.io/posts/2020-02-06-btc-long-trade-2/</loc>
     <lastmod>2020-02-06T10:15:15+08:00</lastmod>
   </url>
@@ -70,6 +65,11 @@
   <url>
     <loc>https://bloxtop.github.io/categories/%E6%96%B0%E9%97%BB/</loc>
     <lastmod>2020-02-06T10:15:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloxtop.github.io/tags/sero/</loc>
+    <lastmod>2020-01-30T17:18:15+08:00</lastmod>
   </url>
   
   <url>
