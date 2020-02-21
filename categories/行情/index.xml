@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>行情 on BloxTop</title>
+    <link>https://bloxtop.github.io/categories/%E8%A1%8C%E6%83%85/</link>
+    <description>Recent content in 行情 on BloxTop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 20 Feb 2020 11:19:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://bloxtop.github.io/categories/%E8%A1%8C%E6%83%85/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Halving year</title>
+      <link>https://bloxtop.github.io/posts/2020-02-20-halving-year/</link>
+      <pubDate>Thu, 20 Feb 2020 11:19:15 +0800</pubDate>
+      
+      <guid>https://bloxtop.github.io/posts/2020-02-20-halving-year/</guid>
+      <description>Halving year Halving is a process of reducing the rate sending to miners when cryptocurrency is generated.</description>
+    </item>
+    
+  </channel>
+</rss>
