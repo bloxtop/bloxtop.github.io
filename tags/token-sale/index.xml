@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>token sale on BloxTop</title>
+    <link>https://bloxtop.github.io/tags/token-sale/</link>
+    <description>Recent content in token sale on BloxTop</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 23 Feb 2020 11:07:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://bloxtop.github.io/tags/token-sale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>BCH bounce</title>
+      <link>https://bloxtop.github.io/posts/2020-02-23-bch_bounce/</link>
+      <pubDate>Sun, 23 Feb 2020 11:07:15 +0800</pubDate>
+      
+      <guid>https://bloxtop.github.io/posts/2020-02-23-bch_bounce/</guid>
+      <description>BCH bounce There is a 30% dip since 2020-2-14 and short-term bottom pattern may form soon.</description>
+    </item>
+    
+  </channel>
+</rss>
