@@ -6,10 +6,19 @@
     <description>Recent content on BloxTop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Feb 2020 11:07:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 19:20:15 +0800</lastBuildDate>
     
 	<atom:link href="https://bloxtop.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Altcoin_algo</title>
+      <link>https://bloxtop.github.io/posts/2020-02-24-altcoin-algo/</link>
+      <pubDate>Mon, 24 Feb 2020 19:20:15 +0800</pubDate>
+      
+      <guid>https://bloxtop.github.io/posts/2020-02-24-altcoin-algo/</guid>
+      <description>Altcoin algo Algo made a congestion for more than 3 days and shows positive sign.</description>
+    </item>
     
     <item>
       <title>BCH bounce</title>
