@@ -6,10 +6,19 @@
     <description>Recent content in Tags on BloxTop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Feb 2020 19:20:15 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2020 20:07:15 +0800</lastBuildDate>
     
 	<atom:link href="https://bloxtop.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>BCH</title>
+      <link>https://bloxtop.github.io/tags/bch/</link>
+      <pubDate>Wed, 26 Feb 2020 20:07:15 +0800</pubDate>
+      
+      <guid>https://bloxtop.github.io/tags/bch/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>altcoin</title>
@@ -17,15 +26,6 @@
       <pubDate>Mon, 24 Feb 2020 19:20:15 +0800</pubDate>
       
       <guid>https://bloxtop.github.io/tags/altcoin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>BCH</title>
-      <link>https://bloxtop.github.io/tags/bch/</link>
-      <pubDate>Sun, 23 Feb 2020 11:07:15 +0800</pubDate>
-      
-      <guid>https://bloxtop.github.io/tags/bch/</guid>
       <description></description>
     </item>
     
