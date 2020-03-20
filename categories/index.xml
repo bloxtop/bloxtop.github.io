@@ -6,10 +6,19 @@
     <description>Recent content in Categories on BloxTop</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://bloxtop.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>交易</title>
+      <link>https://bloxtop.github.io/categories/%E4%BA%A4%E6%98%93/</link>
+      <pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://bloxtop.github.io/categories/%E4%BA%A4%E6%98%93/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>思考</title>
@@ -35,15 +44,6 @@
       <pubDate>Thu, 27 Feb 2020 12:07:15 +0800</pubDate>
       
       <guid>https://bloxtop.github.io/categories/%E5%BC%80%E5%BF%83%E4%B8%80%E5%88%BB/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>交易</title>
-      <link>https://bloxtop.github.io/categories/%E4%BA%A4%E6%98%93/</link>
-      <pubDate>Mon, 24 Feb 2020 19:20:15 +0800</pubDate>
-      
-      <guid>https://bloxtop.github.io/categories/%E4%BA%A4%E6%98%93/</guid>
       <description></description>
     </item>
     
